@@ -1,0 +1,21 @@
+file_id,intimacy,id,Nomalize_form_from_MODU_NXSC,Human corrected OKT_POS," ConCepSpeech(Noun, Verb, Adjective +SpeechAct)",Generalized_Sentence_by_ChatGPT,설명,생성 결과에 대한 평가( 대화 Control)
+MDRW1900003747.1.1.1,0,2,안녕? name1!,"안녕/Noun,?/Punctuation,name/Alpha,1/Number,!/Punctuation",안녕 + Greeting question,안녕?,대화 히스토리로 제공,
+MDRW1900003747.1.1.2,0,1,안녕!,"안녕/Noun,!/Punctuation",안녕 + Greeting-response,안녕?,대화 히스토리로 제공,
+MDRW1900003747.1.1.3,0,1,뭐 해요?,"뭐/Noun,하다/Verb,요/Josa,?/Punctuation","뭐, 하다 + Set question-what",뭐해?,대화 히스토리로 제공,
+MDRW1900003747.1.1.4,0,2,밖에 나왔어.,"밖/Noun,에/Josa,나오다/Verb,./Punctuation","밖,나오다 + Inform-what",밖에 나왔어,대화 히스토리로 제공,
+MDRW1900003747.1.1.5,0,2,name1이는 뭐 해?,"name/Alpha,1/Number,이다/Verb,뭐/Noun,하다/Verb,?/Punctuation","뭐, 하다 + Set question-what",뭐해?,대화 히스토리로 제공,
+MDRW1900003747.1.1.6,0,2,오늘 일정 어떻게 돼?,"오늘/Noun,일정/Noun,어떻다/Adjective,돼다/Verb,?/Punctuation","오늘, 일정, 어떻다, 돼다 + Set question-what",오늘 일정 어떻게 돼?,대화 히스토리로 제공,
+MDRW1900003747.1.1.7,0,2,누구 만나니?,"누구/Noun,만나다/Verb,?/Punctuation","누구, 만나다 + Set question-what",누구 만나니?,대화 히스토리로 제공,
+MDRW1900003747.1.1.8,0,1,나 오늘 동생 만나!,"나/Noun,오늘/Noun,동생/Noun,만나다/Verb,!/Punctuation","나, 오늘, 동생, 만나다 + Inform-what",나 오늘 동생 만나!,대화 히스토리로 제공,
+MDRW1900003747.1.1.9,0,1,저녁 먹으면서 술 마시려고!,"저녁/Noun,먹다/Verb,술/Noun,마시다/Verb,!/Punctuation","저녁, 먹다, 술, 마시다 + Inform-what",저녁 먹으면서 술 마시려고!,대화 히스토리로 제공,
+MDRW1900003747.1.1.10,0,1,넌 뭐 해?,"너/Noun,ㄴ/Josa,뭐/Noun,하다/Verb,?/Punctuation","너, 뭐, 하다 + Set question-what",지금은 쉬고 있어.,gpt-3.5-turbo 생성 결과,개념어 집합을 반영하지 못함
+MDRW1900003747.1.1.11,0,2,난 여자 친구 만나!,"나/Noun,ㄴ/Josa,여자/Noun,친구/Noun,만나다/Verb,!/Punctuation","난, 여자, 친구, 만나다 + Inform-what",난 오늘 여자 친구 만나!,gpt-3.5-turbo 생성 결과,
+MDRW1900003747.1.1.12,0,2,술 잘 마시나 봐?,"술/Noun,잘/Adverb,마시다/Verb,보다/Verb,?/Punctuation","술, 마시다 + Question",술 마실래?,gpt-3.5-turbo 생성 결과,
+MDRW1900003747.1.1.13,0,1,"아니, 그냥 좋아해.","아니다/Adjective,/Punctuation"",그냥/Noun,좋아하다/Adjective.""""/Punctuation""","아니다, 그냥, 좋아하다 + inform-qualifier-partial",그냥 좋아하지 않아.,gpt-3.5-turbo 생성 결과,
+MDRW1900003747.1.1.14,0,1,여자 친구랑 데이트하는구나?,"여자/Noun,친구/Noun,랑/Josa,데이트/Noun,하다/Verb,?/Punctuation","여자, 친구, 데이트, 하다 + Mode-Suprise","어머, 여자 친구랑 데이트하다니! 대박이네요!",gpt-3.5-turbo 생성 결과,개념어 집합을 반영하지 못함
+MDRW1900003747.1.1.15,0,1,뭐 하려고?,"뭐/Noun,하다/Verb,?/Punctuation","뭐, 하다 + Set question-what",지금은 쉬고 있어.,gpt-3.5-turbo 생성 결과,개념어 집합을 반영하지 못함
+MDRW1900003747.1.1.16,0,2,ㅋㅋㅋ 영화 볼까 봐.,"ㅋㅋㅋ/KoreanParticle,영화/Noun,보다/Verb./Punctuation","영화, 보다 + Inform-what",영화 보러 갈래?,gpt-3.5-turbo 생성 결과,
+MDRW1900003747.1.1.17,0,2,나도 술 좋아함!,"나다/Verb,술/Noun,좋아하다/Adjective,!/Punctuation","나, 술, 좋아하다 + Inform-what + Mode-Happy",나도 술 좋아해!,gpt-3.5-turbo 생성 결과,
+MDRW1900003747.1.1.18,0,2,잘 마시지는 못 하지만... ㅋㅋㅋ,"잘/Adverb,마시다/Verb,못/Noun,하다/Verb,.../Punctuation,ㅋㅋㅋ/KoreanParticle","마시다, 못하다 + Inform-qualifier-partial+ Mode-Happy",왜 그래? 술 못 마셔서 슬퍼?,gpt-3.5-turbo 생성 결과,정서를 반영하지 못함
+MDRW1900003747.1.1.19,0,2,맥주만 잘 마셔. ㅎㅎ,"맥주/Noun,만/Josa, 잘/Adverb ,마시다/Verb,./Punctuation,ㅎㅎ/KoreanParticle","맥주, 마시다 + Inform--what+ Mode-Happy",맥주 마시면서 행복해!,gpt-3.5-turbo 생성 결과,
+MDRW1900003747.1.1.20,0,1,나는 소맥파야~~.,"나/Noun,는/Josa,소맥파/Noun,이다/Verb,~~./Punctuation","나, 소맥파, 이다 + Inform-what",나 소맥파야!,gpt-3.5-turbo 생성 결과,
