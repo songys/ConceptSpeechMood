@@ -10,3 +10,7 @@
 # 입력과 출력 예시
 
 ![quick_peek](cocept_speech.png)
+
+#출처 표시
+
+송영숙(2023), 화행과 정서를 반영한 대화 데이터,  URL : https://github.com/songys/ConceptSpeechMood
