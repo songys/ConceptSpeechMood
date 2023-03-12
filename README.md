@@ -13,4 +13,4 @@
 
 #출처 표시
 
-송영숙(2023), 화행과 정서를 반영한 대화 데이터,  URL : https://github.com/songys/ConceptSpeechMood
+송영숙(2023), 화행과 정서를 반영한 일반상식 대화 데이터 구축,  URL : https://github.com/songys/ConceptSpeechMood
